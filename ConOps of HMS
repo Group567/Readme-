@@ -1,0 +1,39 @@
+Hospital Management System Concept of Operations (ConOps)
+Introduction
+A CONOPS is a document that outlines the broad features of a planned system. including its purpose, capabilities, and operational environment, (ICE, 2004). It outlines how the system will be used, who will use it, and what tasks it will perform. The CONOPS is typically developed early in the system development process, before detailed design work has begun. 
+The CONOPS provides a high-level overview of the system, and is used to communicate the system's goals and objectives to stakeholders, such as customers, users, and development teams. It's crucial for the whole team working on the system's development to be on the same page with regards to its goals, and a good strategy may assist with that, (ICE, 2004).
+The CONOPS is an evolving document that is updated throughout the system development process to reflect changes in requirements, design, and operational considerations. It is an important tool for ensuring that the system meets the needs of its users and stakeholders, and is successful in its intended mission.
+In this document we will discuss the following; needs that motivate development of a new system, Brief Description of Proposed System, unique features of the system, User Classes and their Characteristics, unique features of the system, User Classes and their Characteristics and finally Other Stakeholders and their Characteristics.
+Needs that motivates the development of a new system:
+•	The current manual system of managing patient data and hospital operations is time-consuming and prone to errors.
+•	The need for quick access to patient data by medical staff and administrators.
+•	The need for efficient management of hospital resources such as staff, medical equipment, and medicines.
+•	The need for accurate and timely billing of patients and insurance companies.
+Brief Description of Proposed System
+The proposed Hospital Management System is an integrated platform that automates and streamlines hospital operations, providing real-time access to patient data, improved resource management, and efficient billing processes. The system will help to streamline hospital operations, improve patient care, and enhance the efficiency and effectiveness of healthcare providers. The system will be web-based and will be accessible from any device with an internet connection. It will be designed with a user-friendly interface to facilitate easy adoption by medical staff, administrators, and patients.
+Unique Features:
+•	Real-time access to patient data, which will improve patient care and reduce errors.
+•	Automated billing processes, which will reduce errors and improve revenue collection.
+•	Electronic Medical Records (EMR): HMS will enable healthcare providers to store and access patient medical records electronically, including patient history, diagnosis, medications, allergies, and lab results.
+•	Inventory Management: HMS will help hospital staff to manage inventory, such as medical supplies, medicines, and equipment, by tracking stock levels, expiry dates, and reorder levels.
+
+
+User Classes and their Characteristics:
+1.	Medical Staff - This user class includes doctors, nurses, and other medical professionals. They require access to patient data, medical history, and test results. They need the ability to update patient records, schedule appointments, and view their schedules.
+2.	Administrators - This user class includes hospital managers and administrators. They need access to data on hospital operations, including patient records, staffing schedules, and resource allocation. They require the ability to generate reports and view key performance indicators.
+3.	Patients - This user class includes patients who require medical care. They need access to their medical history, test results, and appointment schedules. They require the ability to schedule appointments, communicate with their doctors, and view their bills.
+4.	Insurance Companies - This user class includes insurance companies that provide coverage for patients. They require access to billing data and patient records to process claims.
+Other Stakeholders and their Characteristics:
+Stakeholders may be individuals, groups, or whole institutions that have a vested interest in the success of a certain endeavor. Customers, suppliers, government organizations, and the general public are all examples of external stakeholders, (Dwivedi & Pradeep, 2021). They may have some say in the direction the project or organization goes in, or they may be impacted by it. Examples of stakeholders could include employees, customers, suppliers, investors, regulators, and the community in which an organization operates. Understanding and managing stakeholder needs and expectations is important for the success of a project or organization.
+1.	Vendors - Vendors provide medical equipment, medicines, and other supplies to the hospital. They require access to data on hospital needs and purchase orders.
+2.	Government Regulators - Government regulators oversee the operations of hospitals and ensure compliance with regulations. They require access to data on hospital operations and patient records to monitor compliance.
+3.	Investors - Investors provide funding for hospital operations. They require access to data on hospital performance, revenue, and expenses to evaluate the hospital's financial health.
+In conclusion, the Hospital Management System will revolutionize hospital operations by providing real-time access to patient data, improving resource management, and streamlining billing processes. With its user-friendly interface, the system will be easily adopted by medical staff, administrators, and patients. The system will also benefit other stakeholders, including insurance companies, government regulators, and investors.
+ 
+References
+Dwivedi, R., & Pradeep, D. (2021). Role of Stakeholders in Project Success: Theoretical Background and Approach. Internation Journal of Finance, Insurance and Risk Management, 38-49.
+ICE, I. C. (2004). CONCEPT OF OPERATIONS. ERA Program Management Office (ERA PMO), 1-86.
+
+
+
+
